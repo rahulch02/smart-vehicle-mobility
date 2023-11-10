@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T18:30:02.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="tKmYqHVFrqGPvhWpjt56" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T18:30:21.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="8SnwJZRWlfH0NQjoqEAx" version="22.1.0" type="github">
   <diagram name="Page-1" id="Vjq4AFqN4IQq2SnK0vJ3">
     <mxGraphModel dx="798" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="9OUmWlVIL_5BITdr27y5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9OUmWlVIL_5BITdr27y5-24" target="9OUmWlVIL_5BITdr27y5-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9OUmWlVIL_5BITdr27y5-24" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
+        <mxCell id="9OUmWlVIL_5BITdr27y5-24" value="&lt;div&gt;Active Internet&amp;nbsp;&lt;/div&gt;&lt;div&gt;Connection&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
