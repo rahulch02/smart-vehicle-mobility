@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-10T18:29:00.981Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="gIx9vIxJAZ9wnLO47yp-" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-10T18:30:02.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="tKmYqHVFrqGPvhWpjt56" version="22.1.0" type="github">
   <diagram name="Page-1" id="Vjq4AFqN4IQq2SnK0vJ3">
     <mxGraphModel dx="798" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,9 +32,9 @@
           <mxGeometry x="590" y="439" width="35" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9OUmWlVIL_5BITdr27y5-19" value="VRU" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="434" width="30" height="60" as="geometry" />
+          <mxGeometry x="724" y="434" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9OUmWlVIL_5BITdr27y5-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9OUmWlVIL_5BITdr27y5-18" target="9OUmWlVIL_5BITdr27y5-19">
+        <mxCell id="9OUmWlVIL_5BITdr27y5-20" value="Notifications" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9OUmWlVIL_5BITdr27y5-18" target="9OUmWlVIL_5BITdr27y5-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="640" y="379" as="sourcePoint" />
             <mxPoint x="690" y="329" as="targetPoint" />
@@ -43,6 +43,9 @@
         <mxCell id="9OUmWlVIL_5BITdr27y5-21" value="Speeding Vehicle" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="284" y="439" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="9OUmWlVIL_5BITdr27y5-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9OUmWlVIL_5BITdr27y5-22" target="9OUmWlVIL_5BITdr27y5-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="9OUmWlVIL_5BITdr27y5-22" value="Firebase API" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="488" y="210" width="80" height="80" as="geometry" />
         </mxCell>
@@ -50,9 +53,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9OUmWlVIL_5BITdr27y5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9OUmWlVIL_5BITdr27y5-24" target="9OUmWlVIL_5BITdr27y5-22">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9OUmWlVIL_5BITdr27y5-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9OUmWlVIL_5BITdr27y5-24" target="9OUmWlVIL_5BITdr27y5-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9OUmWlVIL_5BITdr27y5-24" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/internet_globe.svg;" vertex="1" parent="1">
