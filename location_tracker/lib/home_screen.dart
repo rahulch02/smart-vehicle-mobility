@@ -189,8 +189,12 @@ class _MyHomePageState extends State<MyHomePage> {
                     cos((element['longitude'] - curUser.longitude) * pi / 180));
         if (dist < radius && element.id != id) {
           prox.add(element.id);
-          NotificationServices().sendNotification('Warning, Proximity Detected',
-              'Tap to view More', element['token']);
+          if (!_proximity.any((e) => e == element.id)) {
+            NotificationServices().sendNotification(
+                'Warning, Proximity Detected',
+                'Tap to view More',
+                element['token']);
+          }
         }
       });
       setState(() {
